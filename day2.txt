@@ -1,0 +1,39 @@
+3-May-2024
+
+Basic Data Structures
+
+Number
+a = 5
+a = 2.31
+
+Complex
+a = 3+4i
+
+String
+a = "Hello"
+
+boolean
+a = 0
+a = True
+a = False
+a = True
+
+List 
+a = [1,2,3,4,5]
+a = ['a','s']
+- Indexing is from 0 
+- last item -1
+- Mutable - Can add data 
+
+Tuple
+a = (1,2,4,4,2)
+- Immutable - Can't add data
+
+Dictonary
+a = {a : "Hello", b = 'Hii'}
+- stored data in keyvalue pair
+
+set 
+a = (1,2,3,4)
+- Data is not repeated
+
