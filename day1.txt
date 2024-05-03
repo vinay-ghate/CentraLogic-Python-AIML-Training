@@ -1,0 +1,34 @@
+Date : 2-May-2024
+
+Installed python
+
+Create python virtual enviroment
+python -m venv .venv
+
+install modules
+pip install pandas
+
+create .env file to store enviroment variables
+variables like key,password
+
+Then .gitignore file
+so files listed in this file will not get pushed on github or their version history will not get stored
+
+Installed python-dotenv using pip
+then printed "key" value from .env file using following script
+
+"
+import os
+from dotenv import load_dotenv
+load_dotenv()
+print(os.getenv("key"))
+"
+
+Activate virtual enviroment
+- for poweshell
+./.venv/Script/Acticate
+- for cmd
+./.venv/Script/acticate
+
+to deactivate command
+deactivate
