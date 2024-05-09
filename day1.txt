@@ -26,9 +26,9 @@ print(os.getenv("key"))
 
 Activate virtual enviroment
 - for poweshell
-./.venv/Script/Acticate
+./.venv/Scripts/Activate
 - for cmd
-./.venv/Script/acticate
+./.venv/Scripts/activate
 
 to deactivate command
 deactivate

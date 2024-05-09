@@ -30,8 +30,9 @@ a = (1,2,4,4,2)
 - Immutable - Can't add data
 
 Dictonary
-a = {a : "Hello", b = 'Hii'}
-- stored data in keyvalue pair
+a = {c : "Hello", b = 'Hii'}
+- stored data in keyvalue pair 
+- a[c] to access "Hello"
 
 set 
 a = (1,2,3,4)
